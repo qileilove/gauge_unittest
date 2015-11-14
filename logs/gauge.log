@@ -1,0 +1,1625 @@
+17:47:40.424 [INFO] Executing specification: Specification Heading
+17:47:40.425 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+17:47:40.426 [INFO] Executing scenario: First scenario
+17:47:40.426 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:47:40.430 [DEBUG] Executing Step: * Say "hello" to "gauge"
+17:47:40.435 [INFO] hello, gauge
+17:47:40.435 [INFO] 
+17:47:40.436 [INFO] Executing scenario: Second scenario for the specification
+17:47:40.437 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:47:40.438 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+17:47:40.438 [INFO] hello again, gauge
+17:47:40.439 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+17:47:40.440 [INFO] Product
+17:47:40.440 [INFO] Description
+[Gauge, Test automation with ease]
+17:47:40.440 [INFO] [Mingle, Agile project management]
+[Snap, Hosted continuous integration]
+17:47:40.440 [INFO] 
+17:47:40.440 [INFO] [Gocd, Continuous delivery platform]
+17:47:40.440 [INFO] 
+17:47:40.546 [DEBUG] Plugin [Html Report] with pid [20482] has exited
+17:47:40.546 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+17:47:40.546 [INFO] Scenarios: 	2 executed, 2 passed, 0 failed
+17:47:40.546 [INFO] Total time taken: 22ms
+11:20:25.476 [INFO] Plugin xml-report  is not installed. Downloading the plugin.... 
+11:20:30.861 [INFO] Installing Plugin => xml-report 0.0.2
+11:20:30.861 [INFO] Downloading Plugin... => https://github.com/getgauge/xml-report/releases/download/v0.0.2/xml-report-0.0.2-darwin.x86_64.zip
+11:21:02.305 [ERROR] Could not download plugin zip: Could not download File https://github.com/getgauge/xml-report/releases/download/v0.0.2/xml-report-0.0.2-darwin.x86_64.zip: Failed to resolve host..
+11:21:02.306 [CRITICAL] Failed to add plugin xml-report to project : Plugin xml-report  is not installed
+15:34:07.416 [INFO] Executing specification: Specification Heading
+15:34:07.417 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+15:34:07.417 [INFO] Executing scenario: First scenario
+15:34:07.418 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:34:07.423 [DEBUG] Executing Step: * Say "hello" to "gauge"
+15:34:07.427 [INFO] hello, gauge
+15:34:07.428 [INFO] 
+15:34:07.429 [INFO] Executing scenario: Second scenario for the specification
+15:34:07.429 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:34:07.430 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+15:34:07.431 [INFO] hello again, gauge
+15:34:07.431 [INFO] 
+15:34:07.431 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+15:34:07.432 [INFO] Product
+15:34:07.432 [INFO] 
+Description
+15:34:07.432 [INFO] [Gauge, Test automation with ease]
+15:34:07.432 [INFO] 
+15:34:07.432 [INFO] [Mingle, Agile project management]
+15:34:07.432 [INFO] 
+15:34:07.432 [INFO] [Snap, Hosted continuous integration]
+15:34:07.432 [INFO] 
+15:34:07.432 [INFO] [Gocd, Continuous delivery platform]
+15:34:07.432 [INFO] 
+15:34:07.538 [DEBUG] Plugin [Html Report] with pid [35734] has exited
+15:34:07.539 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:34:07.539 [INFO] Scenarios: 	2 executed, 2 passed, 0 failed
+15:34:07.539 [INFO] Total time taken: 22ms
+15:34:34.477 [INFO] Executing specification: Specification Heading
+15:34:34.478 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+15:34:34.478 [INFO] Executing scenario: First scenario
+15:34:34.479 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:34:34.484 [DEBUG] Executing Step: * Say "hello" to "gauge"
+15:34:34.489 [INFO] hello, gauge
+15:34:34.489 [INFO] 
+15:34:34.490 [INFO] Executing scenario: Second scenario for the specification
+15:34:34.491 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:34:34.492 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+15:34:34.492 [INFO] hello again, gauge
+15:34:34.492 [INFO] 
+15:34:34.493 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+15:34:34.494 [INFO] Product
+15:34:34.494 [INFO] Description
+15:34:34.494 [INFO] [Gauge, Test automation with ease]
+15:34:34.494 [INFO] 
+[Mingle, Agile project management]
+15:34:34.494 [INFO] [Snap, Hosted continuous integration]
+15:34:34.494 [INFO] [Gocd, Continuous delivery platform]
+15:34:34.601 [DEBUG] Plugin [Html Report] with pid [35830] has exited
+15:34:34.601 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:34:34.601 [INFO] Scenarios: 	2 executed, 2 passed, 0 failed
+15:34:34.601 [INFO] Total time taken: 23ms
+15:43:40.964 [INFO] Executing specification: Specification Heading
+15:43:40.965 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+15:43:40.965 [INFO] Executing scenario: First scenario
+15:43:40.966 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:43:40.971 [DEBUG] Executing Step: * Say "hello" to "gauge"
+15:43:40.976 [INFO] hello, gauge
+15:43:40.976 [INFO] 
+15:43:40.977 [INFO] Executing scenario: Second scenario for the specification
+15:43:40.978 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:43:40.979 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+15:43:40.979 [INFO] hello again, gauge
+15:43:40.980 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+15:43:40.981 [INFO] Product
+15:43:40.981 [INFO] Description
+15:43:40.981 [INFO] [Gauge, Test automation with ease]
+15:43:40.981 [INFO] 
+15:43:40.981 [INFO] [Mingle, Agile project management]
+15:43:40.981 [INFO] 
+15:43:40.981 [INFO] [Snap, Hosted continuous integration]
+15:43:40.981 [INFO] 
+15:43:40.981 [INFO] [Gocd, Continuous delivery platform]
+15:43:40.981 [INFO] 
+15:43:41.087 [DEBUG] Plugin [Html Report] with pid [36500] has exited
+15:43:41.087 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:43:41.087 [INFO] Scenarios: 	2 executed, 2 passed, 0 failed
+15:43:41.087 [INFO] Total time taken: 23ms
+15:44:03.810 [INFO] Executing specification: Specification Heading
+15:44:03.810 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+15:44:03.810 [INFO] Executing scenario: First scenario
+15:44:03.811 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:44:03.816 [DEBUG] Executing Step: * Say "hello" to "gauge"
+15:44:03.821 [INFO] hello, gauge
+15:44:03.821 [INFO] 
+15:44:03.822 [INFO] Executing scenario: Second scenario for the specification
+15:44:03.822 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+15:44:03.823 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+15:44:03.824 [INFO] hello again, gauge
+15:44:03.825 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+15:44:03.826 [INFO] Product
+15:44:03.827 [INFO] 
+Description
+[Gauge, Test automation with ease]
+[Mingle, Agile project management]
+15:44:03.827 [INFO] [Snap, Hosted continuous integration]
+15:44:03.827 [INFO] [Gocd, Continuous delivery platform]
+15:44:03.931 [DEBUG] Plugin [Html Report] with pid [36603] has exited
+15:44:03.931 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+15:44:03.931 [INFO] Scenarios: 	2 executed, 2 passed, 0 failed
+15:44:03.931 [INFO] Total time taken: 24ms
+17:46:45.777 [INFO] Executing specification: Specification Heading
+17:46:45.778 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+17:46:45.778 [INFO] Executing scenario: First scenario
+17:46:45.779 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:46:45.784 [DEBUG] Executing Step: * Say "hello" to "gauge"
+17:46:45.791 [INFO] hello, gauge
+17:46:45.792 [INFO] 
+17:46:45.793 [INFO] Executing scenario: Second scenario for the specification
+17:46:45.793 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:46:45.794 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+17:46:45.795 [INFO] hello again, gauge
+17:46:45.795 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+17:46:45.796 [INFO] Product
+Description
+17:46:45.796 [INFO] [Gauge, Test automation with ease]
+17:46:45.796 [INFO] 
+[Mingle, Agile project management]
+17:46:45.796 [INFO] [Snap, Hosted continuous integration]
+17:46:45.796 [INFO] [Gocd, Continuous delivery platform]
+17:46:45.797 [INFO] Executing scenario: 计算求和值
+17:46:45.798 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:46:45.799 [DEBUG] Executing Step: * 计算"1"加"2"的值
+17:46:45.800 [INFO] 3
+17:46:45.905 [DEBUG] Plugin [Html Report] with pid [41288] has exited
+17:46:45.905 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+17:46:45.906 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+17:46:45.906 [INFO] Total time taken: 30ms
+10:37:15.191 [INFO] src/test/java/StepImplementation.java:35: error: cannot find symbol
+10:37:15.193 [INFO]         assertEquals(6, c);
+        ^
+  symbol:   method assertEquals(int,int)
+  location: class StepImplementation
+1 error
+10:37:15.196 [INFO] process /Users/lqi/.jenv/shims/javac with pid 2153 quit unexpectedly. exit status 1
+10:37:15.196 [DEBUG] Runner exited with error: exit status 1
+10:37:15.196 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+10:37:15.196 [DEBUG] Error while killing runner: os: process already finished
+10:37:15.196 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+10:41:26.604 [INFO] src/test/java/StepImplementation.java:35: error: cannot find symbol
+10:41:26.605 [INFO]         Assert.assertEquals("a+b",c,3);
+        ^
+  symbol:   variable Assert
+  location: class StepImplementation
+1 error
+10:41:26.609 [INFO] process /Users/lqi/.jenv/shims/javac with pid 2207 quit unexpectedly. exit status 1
+10:41:26.609 [DEBUG] Runner exited with error: exit status 1
+10:41:26.609 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+10:41:26.609 [DEBUG] Error while killing runner: os: process already finished
+10:41:26.609 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+10:41:57.074 [INFO] Executing specification: Specification Heading
+10:41:57.076 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+10:41:57.076 [INFO] Executing scenario: First scenario
+10:41:57.077 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+10:41:57.081 [DEBUG] Executing Step: * Say "hello" to "gauge"
+10:41:57.086 [INFO] hello, gauge
+10:41:57.086 [INFO] 
+10:41:57.088 [INFO] Executing scenario: Second scenario for the specification
+10:41:57.088 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+10:41:57.089 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+10:41:57.090 [INFO] hello again, gauge
+10:41:57.090 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+10:41:57.091 [INFO] Product
+10:41:57.091 [INFO] Description
+10:41:57.091 [INFO] [Gauge, Test automation with ease]
+10:41:57.091 [INFO] 
+10:41:57.091 [INFO] [Mingle, Agile project management]
+10:41:57.091 [INFO] 
+10:41:57.091 [INFO] [Snap, Hosted continuous integration]
+10:41:57.091 [INFO] 
+10:41:57.091 [INFO] [Gocd, Continuous delivery platform]
+10:41:57.091 [INFO] 
+10:41:57.092 [INFO] Executing scenario: 计算求和值
+10:41:57.092 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+10:41:57.095 [DEBUG] Executing Step: * 计算"1"加"2"的值
+10:41:57.095 [INFO] 3
+10:41:57.095 [INFO] 
+10:41:57.202 [DEBUG] Plugin [Html Report] with pid [2308] has exited
+10:41:57.202 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+10:41:57.202 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+10:41:57.202 [INFO] Total time taken: 29ms
+10:42:29.810 [INFO] Executing specification: Specification Heading
+10:42:29.811 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+10:42:29.811 [INFO] Executing scenario: First scenario
+10:42:29.812 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+10:42:29.816 [DEBUG] Executing Step: * Say "hello" to "gauge"
+10:42:29.821 [INFO] hello, gauge
+10:42:29.821 [INFO] 
+10:42:29.822 [INFO] Executing scenario: Second scenario for the specification
+10:42:29.823 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+10:42:29.824 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+10:42:29.825 [INFO] hello again, gauge
+10:42:29.825 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+10:42:29.826 [INFO] Product
+10:42:29.826 [INFO] Description
+10:42:29.826 [INFO] [Gauge, Test automation with ease]
+10:42:29.826 [INFO] [Mingle, Agile project management]
+10:42:29.826 [INFO] 
+[Snap, Hosted continuous integration]
+10:42:29.826 [INFO] 
+10:42:29.826 [INFO] [Gocd, Continuous delivery platform]
+10:42:29.826 [INFO] 
+10:42:29.827 [INFO] Executing scenario: 计算求和值
+10:42:29.828 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+10:42:29.829 [DEBUG] Executing Step: * 计算"1"加"2"的值
+10:42:29.830 [INFO] 3
+10:42:29.830 [INFO] 
+10:42:30.729 [ERROR] Failed step: 计算"1"加"2"的值
+10:42:30.729 [ERROR] Error Message: java.lang.AssertionError: a+b expected:<3> but was:<5>
+10:42:30.729 [ERROR] Stacktrace: org.junit.Assert.fail(Assert.java:88)
+	org.junit.Assert.failNotEquals(Assert.java:834)
+	org.junit.Assert.assertEquals(Assert.java:645)
+	StepImplementation.summary(StepImplementation.java:36)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:606)
+	com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:82)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:65)
+	com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+	com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+	com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:40)
+	com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+	com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:37)
+	com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+	com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+	
+10:42:30.835 [DEBUG] Plugin [Html Report] with pid [2380] has exited
+10:42:31.977 [INFO] Specifications: 	1 executed, 0 passed, 1 failed, 0 skipped
+10:42:31.977 [INFO] Scenarios: 	3 executed, 2 passed, 1 failed
+10:42:31.977 [INFO] Total time taken: 925ms
+12:30:51.045 [INFO] Executing specification: Specification Heading
+12:30:51.046 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+12:30:51.046 [INFO] Executing scenario: First scenario
+12:30:51.046 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+12:30:51.051 [DEBUG] Executing Step: * Say "hello" to "gauge"
+12:30:51.056 [INFO] hello, gauge
+12:30:51.056 [INFO] 
+12:30:51.057 [INFO] Executing scenario: Second scenario for the specification
+12:30:51.058 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+12:30:51.059 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+12:30:51.059 [INFO] hello again, gauge
+12:30:51.060 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+12:30:51.060 [INFO] Product
+12:30:51.060 [INFO] Description
+12:30:51.060 [INFO] [Gauge, Test automation with ease]
+12:30:51.060 [INFO] 
+12:30:51.060 [INFO] [Mingle, Agile project management]
+12:30:51.060 [INFO] 
+12:30:51.061 [INFO] [Snap, Hosted continuous integration]
+12:30:51.061 [INFO] 
+[Gocd, Continuous delivery platform]
+12:30:51.061 [INFO] 
+12:30:51.061 [INFO] Executing scenario: 计算求和值
+12:30:51.062 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+12:30:51.063 [DEBUG] Executing Step: * 计算"1"加"2"的值
+12:30:51.064 [INFO] 3
+12:30:51.064 [INFO] 
+12:30:51.632 [ERROR] Failed step: 计算"1"加"2"的值
+12:30:51.632 [ERROR] Error Message: java.lang.AssertionError: a+b expected:<3> but was:<5>
+12:30:51.632 [ERROR] Stacktrace: org.junit.Assert.fail(Assert.java:88)
+	org.junit.Assert.failNotEquals(Assert.java:834)
+	org.junit.Assert.assertEquals(Assert.java:645)
+	StepImplementation.summary(StepImplementation.java:36)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:606)
+	com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:82)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:65)
+	com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+	com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+	com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:40)
+	com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+	com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:37)
+	com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+	com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+	
+12:30:51.739 [DEBUG] Plugin [Html Report] with pid [7188] has exited
+12:30:54.724 [INFO] Specifications: 	1 executed, 0 passed, 1 failed, 0 skipped
+12:30:54.724 [INFO] Scenarios: 	3 executed, 2 passed, 1 failed
+12:30:54.724 [INFO] Total time taken: 594ms
+17:43:46.987 [INFO] src/test/java/StepImplementation.java:44: error: ';' expected
+17:43:46.989 [INFO]           int c= row.get(0)+row.get(1)
+                                      ^
+src/test/java/StepImplementation.java:45: error: ';' expected
+          system.println.out(c)
+                               ^
+17:43:46.989 [INFO] 2 errors
+17:43:46.993 [INFO] process /Users/lqi/.jenv/shims/javac with pid 5116 quit unexpectedly. exit status 1
+17:43:46.994 [DEBUG] Runner exited with error: exit status 1
+17:43:46.994 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+17:43:46.994 [DEBUG] Error while killing runner: os: process already finished
+17:43:46.994 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+17:44:11.830 [INFO] src/test/java/StepImplementation.java:39: error: method stepWithTable(Table) is already defined in class StepImplementation
+17:44:11.831 [INFO]     public void stepWithTable(Table table) {
+                ^
+17:44:11.862 [INFO] src/test/java/StepImplementation.java:44: error: incompatible types
+          int c= row.get(0)+row.get(1);
+17:44:11.862 [INFO]                            ^
+  required: int
+  found:    String
+17:44:11.863 [INFO] src/test/java/StepImplementation.java:45: error: package system does not exist
+17:44:11.863 [INFO]           system.println.out(c);
+                ^
+17:44:11.863 [INFO] 3 errors
+17:44:11.879 [INFO] process /Users/lqi/.jenv/shims/javac with pid 5169 quit unexpectedly. exit status 1
+17:44:11.880 [DEBUG] Runner exited with error: exit status 1
+17:44:11.880 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+17:44:11.880 [DEBUG] Error while killing runner: os: process already finished
+17:44:11.880 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+17:44:20.836 [INFO] src/test/java/StepImplementation.java:39: error: method stepWithTable(Table) is already defined in class StepImplementation
+17:44:20.836 [INFO]     public void stepWithTable(Table table) {
+                ^
+17:44:20.866 [INFO] src/test/java/StepImplementation.java:44: error: incompatible types
+17:44:20.866 [INFO]           int c= row.get(0)+row.get(1);
+                           ^
+  required: int
+  found:    String
+17:44:20.867 [INFO] src/test/java/StepImplementation.java:45: error: package system does not exist
+17:44:20.867 [INFO]           system.println.out(c);
+                ^
+17:44:20.867 [INFO] 3 errors
+17:44:20.883 [INFO] process /Users/lqi/.jenv/shims/javac with pid 5215 quit unexpectedly. exit status 1
+17:44:20.884 [DEBUG] Runner exited with error: exit status 1
+17:44:20.884 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+17:44:20.884 [DEBUG] Error while killing runner: os: process already finished
+17:44:20.884 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+17:44:25.864 [INFO] src/test/java/StepImplementation.java:39: error: method stepWithTable(Table) is already defined in class StepImplementation
+17:44:25.864 [INFO]     public void stepWithTable(Table table) {
+                ^
+17:44:25.885 [INFO] src/test/java/StepImplementation.java:44: error: incompatible types
+          int c= row.get(0)+row.get(1);
+17:44:25.885 [INFO]                            ^
+  required: int
+  found:    String
+17:44:25.886 [INFO] src/test/java/StepImplementation.java:45: error: cannot find symbol
+17:44:25.886 [INFO]           System.println.out(c);
+                ^
+  symbol:   variable println
+17:44:25.886 [INFO]   location: class System
+17:44:25.887 [INFO] 3 errors
+17:44:25.903 [INFO] process /Users/lqi/.jenv/shims/javac with pid 5267 quit unexpectedly. exit status 1
+17:44:25.904 [DEBUG] Runner exited with error: exit status 1
+17:44:25.904 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+17:44:25.904 [DEBUG] Error while killing runner: os: process already finished
+17:44:25.904 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+17:44:43.068 [INFO] src/test/java/StepImplementation.java:39: error: method stepWithTable(Table) is already defined in class StepImplementation
+17:44:43.068 [INFO]     public void stepWithTable(Table table) {
+                ^
+17:44:43.089 [INFO] src/test/java/StepImplementation.java:44: error: incompatible types
+17:44:43.090 [INFO]           int c= row.get(0)+row.get(1);
+                           ^
+  required: int
+  found:    String
+17:44:43.090 [INFO] src/test/java/StepImplementation.java:45: error: cannot find symbol
+17:44:43.090 [INFO]           System.println.out(c);
+                ^
+17:44:43.090 [INFO]   symbol:   variable println
+17:44:43.090 [INFO]   location: class System
+17:44:43.091 [INFO] 3 errors
+17:44:43.108 [INFO] process /Users/lqi/.jenv/shims/javac with pid 5321 quit unexpectedly. exit status 1
+17:44:43.108 [DEBUG] Runner exited with error: exit status 1
+17:44:43.108 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+17:44:43.108 [DEBUG] Error while killing runner: os: process already finished
+17:44:43.108 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+17:44:47.294 [INFO] src/test/java/StepImplementation.java:39: error: method stepWithTable(Table) is already defined in class StepImplementation
+17:44:47.294 [INFO]     public void stepWithTable(Table table) {
+                ^
+17:44:47.321 [INFO] src/test/java/StepImplementation.java:44: error: incompatible types
+          int c= row.get(0)+row.get(1);
+17:44:47.321 [INFO]                            ^
+  required: int
+  found:    String
+17:44:47.322 [INFO] 2 errors
+17:44:47.339 [INFO] process /Users/lqi/.jenv/shims/javac with pid 5364 quit unexpectedly. exit status 1
+17:44:47.339 [DEBUG] Runner exited with error: exit status 1
+17:44:47.339 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+17:44:47.340 [DEBUG] Error while killing runner: os: process already finished
+17:44:47.340 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+17:46:59.387 [INFO] src/test/java/StepImplementation.java:39: error: method stepWithTable(Table) is already defined in class StepImplementation
+17:46:59.388 [INFO]     public void stepWithTable(Table table) {
+                ^
+17:46:59.413 [INFO] 1 error
+17:46:59.418 [INFO] process /Users/lqi/.jenv/shims/javac with pid 5486 quit unexpectedly. exit status 1
+17:46:59.418 [DEBUG] Runner exited with error: exit status 1
+17:46:59.418 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+17:46:59.418 [DEBUG] Error while killing runner: os: process already finished
+17:46:59.418 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+17:47:30.894 [INFO] src/test/java/StepImplementation.java:39: error: method stepWithTable(Table) is already defined in class StepImplementation
+17:47:30.895 [INFO]     public void stepWithTable(Table table) {
+                ^
+17:47:30.917 [INFO] 1 error
+17:47:30.923 [INFO] process /Users/lqi/.jenv/shims/javac with pid 5543 quit unexpectedly. exit status 1
+17:47:30.923 [DEBUG] Runner exited with error: exit status 1
+17:47:30.923 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+17:47:30.923 [DEBUG] Error while killing runner: os: process already finished
+17:47:30.923 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+17:47:44.712 [INFO] Executing specification: Specification Heading
+17:47:44.714 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+17:47:44.714 [INFO] Executing scenario: First scenario
+17:47:44.714 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:47:44.719 [DEBUG] Executing Step: * Say "hello" to "gauge"
+17:47:44.724 [INFO] hello, gauge
+17:47:44.724 [INFO] 
+17:47:44.725 [INFO] Executing scenario: Second scenario for the specification
+17:47:44.726 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:47:44.727 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+17:47:44.727 [INFO] hello again, gauge
+17:47:44.728 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+17:47:44.729 [INFO] Product
+17:47:44.729 [INFO] Description
+17:47:44.729 [INFO] [Gauge, Test automation with ease]
+17:47:44.729 [INFO] [Mingle, Agile project management]
+17:47:44.729 [INFO] 
+17:47:44.729 [INFO] [Snap, Hosted continuous integration]
+17:47:44.729 [INFO] 
+17:47:44.729 [INFO] [Gocd, Continuous delivery platform]
+17:47:44.729 [INFO] 
+17:47:44.730 [INFO] Executing scenario: 计算求和值
+17:47:44.730 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:47:44.731 [DEBUG] Executing Step: * 计算"1"加"2"的值
+17:47:44.732 [INFO] 3
+17:47:45.387 [ERROR] Failed step: 计算"1"加"2"的值
+17:47:45.387 [ERROR] Error Message: java.lang.AssertionError: a+b expected:<3> but was:<5>
+17:47:45.387 [ERROR] Stacktrace: org.junit.Assert.fail(Assert.java:88)
+	org.junit.Assert.failNotEquals(Assert.java:834)
+	org.junit.Assert.assertEquals(Assert.java:645)
+	StepImplementation.summary(StepImplementation.java:36)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:606)
+	com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:82)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:65)
+	com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+	com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+	com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:40)
+	com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+	com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:37)
+	com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+	com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+	
+17:47:45.493 [DEBUG] Plugin [Html Report] with pid [5651] has exited
+17:47:46.951 [INFO] Specifications: 	1 executed, 0 passed, 1 failed, 0 skipped
+17:47:46.952 [INFO] Scenarios: 	3 executed, 2 passed, 1 failed
+17:47:46.952 [INFO] Total time taken: 681ms
+17:48:03.078 [INFO] Executing specification: Specification Heading
+17:48:03.079 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+17:48:03.079 [INFO] Executing scenario: First scenario
+17:48:03.080 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:48:03.084 [DEBUG] Executing Step: * Say "hello" to "gauge"
+17:48:03.089 [INFO] hello, gauge
+17:48:03.089 [INFO] 
+17:48:03.090 [INFO] Executing scenario: Second scenario for the specification
+17:48:03.091 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:48:03.092 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+17:48:03.092 [INFO] hello again, gauge
+17:48:03.093 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+17:48:03.094 [INFO] Product
+17:48:03.094 [INFO] Description
+17:48:03.094 [INFO] [Gauge, Test automation with ease]
+17:48:03.094 [INFO] 
+[Mingle, Agile project management]
+17:48:03.094 [INFO] [Snap, Hosted continuous integration]
+17:48:03.094 [INFO] 
+17:48:03.094 [INFO] [Gocd, Continuous delivery platform]
+17:48:03.095 [INFO] Executing scenario: 计算求和值
+17:48:03.095 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+17:48:03.096 [DEBUG] Executing Step: * 计算"1"加"2"的值
+17:48:03.096 [INFO] 3
+17:48:03.098 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+17:48:03.099 [INFO] 3
+17:48:03.099 [INFO] 4
+17:48:03.099 [INFO] 7
+17:48:03.203 [DEBUG] Plugin [Html Report] with pid [5732] has exited
+17:48:03.203 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+17:48:03.203 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+17:48:03.203 [INFO] Total time taken: 26ms
+20:47:09.236 [INFO] Executing specification: Specification Heading
+20:47:09.237 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+20:47:09.237 [INFO] Executing scenario: First scenario
+20:47:09.238 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:47:09.243 [DEBUG] Executing Step: * Say "hello" to "gauge"
+20:47:09.248 [INFO] hello, gauge
+20:47:09.248 [INFO] 
+20:47:09.249 [INFO] Executing scenario: Second scenario for the specification
+20:47:09.250 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:47:09.250 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+20:47:09.251 [INFO] hello again, gauge
+20:47:09.251 [INFO] 
+20:47:09.252 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+20:47:09.252 [INFO] Product
+20:47:09.252 [INFO] 
+Description
+20:47:09.252 [INFO] [Gauge, Test automation with ease]
+20:47:09.252 [INFO] [Mingle, Agile project management]
+20:47:09.252 [INFO] [Snap, Hosted continuous integration]
+20:47:09.252 [INFO] 
+[Gocd, Continuous delivery platform]
+20:47:09.253 [INFO] Executing scenario: 计算求和值
+20:47:09.254 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:47:09.255 [DEBUG] Executing Step: * 计算"1"加"2"的值
+20:47:09.255 [INFO] 3
+20:47:09.257 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+20:47:09.258 [INFO] 3
+20:47:09.258 [INFO] 
+4
+20:47:09.258 [INFO] 
+20:47:09.258 [INFO] 7
+20:47:09.258 [INFO] 
+20:47:09.363 [DEBUG] Plugin [Html Report] with pid [6894] has exited
+20:47:09.364 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+20:47:09.364 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+20:47:09.364 [INFO] Total time taken: 28ms
+20:47:32.272 [INFO] Executing specification: Specification Heading
+20:47:32.273 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+20:47:32.273 [INFO] Executing scenario: First scenario
+20:47:32.274 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:47:32.278 [DEBUG] Executing Step: * Say "hello" to "gauge"
+20:47:32.283 [INFO] hello, gauge
+20:47:32.283 [INFO] 
+20:47:32.284 [INFO] Executing scenario: Second scenario for the specification
+20:47:32.285 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:47:32.286 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+20:47:32.286 [INFO] hello again, gauge
+20:47:32.287 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+20:47:32.288 [INFO] Product
+20:47:32.288 [INFO] Description
+20:47:32.288 [INFO] [Gauge, Test automation with ease]
+20:47:32.288 [INFO] 
+20:47:32.288 [INFO] [Mingle, Agile project management]
+20:47:32.288 [INFO] [Snap, Hosted continuous integration]
+20:47:32.288 [INFO] 
+20:47:32.288 [INFO] [Gocd, Continuous delivery platform]
+20:47:32.288 [INFO] 
+20:47:32.289 [INFO] Executing scenario: 计算求和值
+20:47:32.289 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:47:32.290 [DEBUG] Executing Step: * 计算"1"加"2"的值
+20:47:32.291 [INFO] 3
+20:47:32.293 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+20:47:32.293 [INFO] 3
+20:47:32.293 [INFO] 4
+7
+20:47:32.398 [DEBUG] Plugin [Html Report] with pid [6977] has exited
+20:47:32.398 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+20:47:32.398 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+20:47:32.398 [INFO] Total time taken: 27ms
+20:48:05.273 [WARNING] Validation failed. The following steps have errors
+20:48:05.274 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:36: Step implementation not found. 计算下列数据表中a加b的值
+20:49:10.036 [INFO] Executing specification: Specification Heading
+20:49:10.038 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+20:49:10.038 [INFO] Executing scenario: First scenario
+20:49:10.038 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:49:10.043 [DEBUG] Executing Step: * Say "hello" to "gauge"
+20:49:10.048 [INFO] hello, gauge
+20:49:10.048 [INFO] 
+20:49:10.049 [INFO] Executing scenario: Second scenario for the specification
+20:49:10.049 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:49:10.051 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+20:49:10.051 [INFO] hello again, gauge
+20:49:10.052 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+20:49:10.052 [INFO] Product
+20:49:10.053 [INFO] Description
+20:49:10.053 [INFO] [Gauge, Test automation with ease]
+20:49:10.053 [INFO] [Mingle, Agile project management]
+20:49:10.053 [INFO] 
+20:49:10.053 [INFO] [Snap, Hosted continuous integration]
+20:49:10.053 [INFO] 
+20:49:10.053 [INFO] [Gocd, Continuous delivery platform]
+20:49:10.053 [INFO] 
+20:49:10.054 [INFO] Executing scenario: 计算求和值
+20:49:10.054 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:49:10.055 [DEBUG] Executing Step: * 计算"1"加"2"的值
+20:49:10.056 [INFO] 3
+20:49:10.056 [INFO] 
+20:49:10.058 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+20:49:10.059 [INFO] 3
+20:49:10.059 [INFO] 4
+7
+20:49:10.059 [INFO] 
+20:49:10.164 [DEBUG] Plugin [Html Report] with pid [7170] has exited
+20:49:10.164 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+20:49:10.164 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+20:49:10.164 [INFO] Total time taken: 28ms
+20:50:54.730 [INFO] Executing specification: Specification Heading
+20:50:54.731 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+20:50:54.731 [INFO] Executing scenario: First scenario
+20:50:54.731 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:50:54.736 [DEBUG] Executing Step: * Say "hello" to "gauge"
+20:50:54.741 [INFO] hello, gauge
+20:50:54.741 [INFO] 
+20:50:54.742 [INFO] Executing scenario: Second scenario for the specification
+20:50:54.742 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:50:54.743 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+20:50:54.744 [INFO] hello again, gauge
+20:50:54.745 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+20:50:54.745 [INFO] Product
+20:50:54.745 [INFO] Description
+[Gauge, Test automation with ease]
+20:50:54.745 [INFO] 
+[Mingle, Agile project management]
+20:50:54.745 [INFO] [Snap, Hosted continuous integration]
+20:50:54.745 [INFO] 
+20:50:54.745 [INFO] [Gocd, Continuous delivery platform]
+20:50:54.745 [INFO] 
+20:50:54.746 [INFO] Executing scenario: 计算求和值
+20:50:54.747 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:50:54.748 [DEBUG] Executing Step: * 计算"1"加"2"的值
+20:50:54.748 [INFO] 3
+20:50:54.750 [INFO] Executing scenario: 计算表中a列与b列之和
+20:50:54.751 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+20:50:54.752 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+20:50:54.752 [INFO] 3
+20:50:54.752 [INFO] 4
+7
+20:50:54.752 [INFO] 
+20:50:54.859 [DEBUG] Plugin [Html Report] with pid [7295] has exited
+20:50:54.859 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+20:50:54.859 [INFO] Scenarios: 	4 executed, 4 passed, 0 failed
+20:50:54.859 [INFO] Total time taken: 28ms
+21:14:08.031 [CRITICAL] [ParseError] /Users/lqi/work/gauge/unittest/specs/hello_world.spec : line no: 47, Dynamic parameter <文件:resources/sum.csv> could not be resolved
+21:14:37.253 [CRITICAL] [ParseError] /Users/lqi/work/gauge/unittest/specs/hello_world.spec : line no: 47, Dynamic parameter <文件:resources/sum.csv> could not be resolved
+21:16:18.161 [CRITICAL] [ParseError] /Users/lqi/work/gauge/unittest/specs/hello_world.spec : line no: 47, Dynamic parameter <文件:resources/sum.csv> could not be resolved
+21:16:21.968 [CRITICAL] [ParseError] /Users/lqi/work/gauge/unittest/specs/hello_world.spec : line no: 47, Dynamic parameter <文件:resources/sum.csv> could not be resolved
+21:17:18.744 [CRITICAL] [ParseError] /Users/lqi/work/gauge/unittest/specs/hello_world.spec : line no: 47, Dynamic parameter <文件:resources/sum.csv> could not be resolved
+21:17:32.838 [INFO] Executing specification: Specification Heading
+21:17:32.840 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+21:17:32.840 [INFO] Executing scenario: First scenario
+21:17:32.840 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:17:32.845 [DEBUG] Executing Step: * Say "hello" to "gauge"
+21:17:32.850 [INFO] hello, gauge
+21:17:32.850 [INFO] 
+21:17:32.851 [INFO] Executing scenario: Second scenario for the specification
+21:17:32.852 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:17:32.853 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+21:17:32.854 [INFO] hello again, gauge
+21:17:32.854 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+21:17:32.855 [INFO] Product
+21:17:32.855 [INFO] Description
+21:17:32.855 [INFO] [Gauge, Test automation with ease]
+21:17:32.855 [INFO] 
+21:17:32.855 [INFO] [Mingle, Agile project management]
+21:17:32.855 [INFO] 
+21:17:32.855 [INFO] [Snap, Hosted continuous integration]
+21:17:32.855 [INFO] 
+21:17:32.855 [INFO] [Gocd, Continuous delivery platform]
+21:17:32.855 [INFO] 
+21:17:32.856 [INFO] Executing scenario: 计算求和值
+21:17:32.857 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:17:32.857 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:17:32.858 [INFO] 3
+21:17:32.860 [INFO] Executing scenario: 计算表中a列与b列之和
+21:17:32.860 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:17:32.861 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:17:32.862 [INFO] 3
+21:17:32.862 [INFO] 4
+7
+21:17:32.862 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:17:32.863 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:17:32.864 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+21:17:32.864 [INFO] 3
+21:17:32.864 [INFO] 7
+21:17:32.971 [DEBUG] Plugin [Html Report] with pid [8229] has exited
+21:17:32.971 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+21:17:32.971 [INFO] Scenarios: 	5 executed, 5 passed, 0 failed
+21:17:32.972 [INFO] Total time taken: 32ms
+21:18:17.226 [INFO] Executing specification: Specification Heading
+21:18:17.226 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+21:18:17.226 [INFO] Executing scenario: First scenario
+21:18:17.227 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:18:17.232 [DEBUG] Executing Step: * Say "hello" to "gauge"
+21:18:17.236 [INFO] hello, gauge
+21:18:17.236 [INFO] 
+21:18:17.237 [INFO] Executing scenario: Second scenario for the specification
+21:18:17.238 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:18:17.239 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+21:18:17.240 [INFO] hello again, gauge
+21:18:17.240 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+21:18:17.241 [INFO] Product
+21:18:17.241 [INFO] Description
+21:18:17.241 [INFO] [Gauge, Test automation with ease]
+21:18:17.241 [INFO] 
+21:18:17.241 [INFO] [Mingle, Agile project management]
+21:18:17.241 [INFO] 
+21:18:17.241 [INFO] [Snap, Hosted continuous integration]
+21:18:17.241 [INFO] 
+21:18:17.241 [INFO] [Gocd, Continuous delivery platform]
+21:18:17.241 [INFO] 
+21:18:17.242 [INFO] Executing scenario: 计算求和值
+21:18:17.243 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:18:17.244 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:18:17.244 [INFO] 3
+21:18:17.246 [INFO] Executing scenario: 计算表中a列与b列之和
+21:18:17.247 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:18:17.248 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:18:17.249 [INFO] 3
+21:18:17.249 [INFO] 
+4
+21:18:17.249 [INFO] 7
+21:18:17.250 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:18:17.250 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:18:17.251 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <file:resources/sum.csv>
+21:18:17.355 [DEBUG] Plugin [Html Report] with pid [8325] has exited
+21:18:17.355 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+21:18:17.355 [INFO] Scenarios: 	5 executed, 5 passed, 0 failed
+21:18:17.355 [INFO] Total time taken: 32ms
+21:18:26.985 [CRITICAL] [ParseError] /Users/lqi/work/gauge/unittest/specs/hello_world.spec : line no: 47, Dynamic parameter <test:resources/sum.csv> could not be resolved
+21:20:36.495 [INFO] Executing specification: Specification Heading
+21:20:36.496 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+21:20:36.496 [INFO] Executing scenario: First scenario
+21:20:36.497 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:20:36.501 [DEBUG] Executing Step: * Say "hello" to "gauge"
+21:20:36.506 [INFO] hello, gauge
+21:20:36.506 [INFO] 
+21:20:36.507 [INFO] Executing scenario: Second scenario for the specification
+21:20:36.508 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:20:36.509 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+21:20:36.509 [INFO] hello again, gauge
+21:20:36.510 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+21:20:36.511 [INFO] Product
+21:20:36.511 [INFO] Description
+21:20:36.511 [INFO] [Gauge, Test automation with ease]
+21:20:36.511 [INFO] 
+[Mingle, Agile project management]
+[Snap, Hosted continuous integration]
+[Gocd, Continuous delivery platform]
+21:20:36.512 [INFO] Executing scenario: 计算求和值
+21:20:36.512 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:20:36.513 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:20:36.514 [INFO] 3
+21:20:36.516 [INFO] Executing scenario: 计算表中a列与b列之和
+21:20:36.516 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:20:36.517 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:20:36.518 [INFO] 3------------------
+21:20:36.518 [INFO] 4------------------
+7------------------
+21:20:36.518 [INFO] 
+21:20:36.519 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:20:36.519 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:20:36.520 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <file:resources/sum.csv>
+21:20:36.627 [DEBUG] Plugin [Html Report] with pid [8480] has exited
+21:20:36.627 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+21:20:36.627 [INFO] Scenarios: 	5 executed, 5 passed, 0 failed
+21:20:36.627 [INFO] Total time taken: 31ms
+21:21:07.245 [INFO] Executing specification: Specification Heading
+21:21:07.245 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+21:21:07.245 [INFO] Executing scenario: First scenario
+21:21:07.246 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:07.251 [DEBUG] Executing Step: * Say "hello" to "gauge"
+21:21:07.256 [INFO] hello, gauge
+21:21:07.256 [INFO] 
+21:21:07.257 [INFO] Executing scenario: Second scenario for the specification
+21:21:07.258 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:07.259 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+21:21:07.259 [INFO] hello again, gauge
+21:21:07.260 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+21:21:07.261 [INFO] Product
+21:21:07.261 [INFO] Description
+21:21:07.261 [INFO] [Gauge, Test automation with ease]
+21:21:07.261 [INFO] 
+[Mingle, Agile project management]
+21:21:07.261 [INFO] [Snap, Hosted continuous integration]
+21:21:07.261 [INFO] 
+21:21:07.261 [INFO] [Gocd, Continuous delivery platform]
+21:21:07.261 [INFO] 
+21:21:07.262 [INFO] Executing scenario: 计算求和值
+21:21:07.262 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:07.263 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:21:07.264 [INFO] 3
+21:21:07.266 [INFO] Executing scenario: 计算表中a列与b列之和
+21:21:07.267 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:07.268 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:21:07.268 [INFO] 3------------------
+21:21:07.268 [INFO] 4------------------
+7------------------
+21:21:07.268 [INFO] 
+21:21:07.269 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:21:07.270 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:07.270 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <file:resources/sum.csv>
+21:21:07.373 [DEBUG] Plugin [Html Report] with pid [8567] has exited
+21:21:07.373 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+21:21:07.373 [INFO] Scenarios: 	5 executed, 5 passed, 0 failed
+21:21:07.373 [INFO] Total time taken: 31ms
+21:21:09.752 [INFO] Executing specification: Specification Heading
+21:21:09.753 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+21:21:09.753 [INFO] Executing scenario: First scenario
+21:21:09.753 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:09.758 [DEBUG] Executing Step: * Say "hello" to "gauge"
+21:21:09.763 [INFO] hello, gauge
+21:21:09.763 [INFO] 
+21:21:09.764 [INFO] Executing scenario: Second scenario for the specification
+21:21:09.765 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:09.766 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+21:21:09.766 [INFO] hello again, gauge
+21:21:09.767 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+21:21:09.767 [INFO] Product
+21:21:09.767 [INFO] Description
+21:21:09.767 [INFO] [Gauge, Test automation with ease]
+21:21:09.767 [INFO] 
+21:21:09.767 [INFO] [Mingle, Agile project management]
+21:21:09.767 [INFO] 
+21:21:09.767 [INFO] [Snap, Hosted continuous integration]
+21:21:09.767 [INFO] [Gocd, Continuous delivery platform]
+21:21:09.767 [INFO] 
+21:21:09.768 [INFO] Executing scenario: 计算求和值
+21:21:09.769 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:09.770 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:21:09.770 [INFO] 3
+21:21:09.770 [INFO] 
+21:21:09.772 [INFO] Executing scenario: 计算表中a列与b列之和
+21:21:09.773 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:09.774 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:21:09.774 [INFO] 3------------------
+21:21:09.774 [INFO] 
+4------------------
+21:21:09.774 [INFO] 
+21:21:09.774 [INFO] 7------------------
+21:21:09.774 [INFO] 
+21:21:09.775 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:21:09.775 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:09.776 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <file:resources/sum.csv>
+21:21:09.878 [DEBUG] Plugin [Html Report] with pid [8641] has exited
+21:21:09.878 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+21:21:09.878 [INFO] Scenarios: 	5 executed, 5 passed, 0 failed
+21:21:09.878 [INFO] Total time taken: 30ms
+21:21:29.027 [INFO] Executing specification: Specification Heading
+21:21:29.028 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+21:21:29.028 [INFO] Executing scenario: First scenario
+21:21:29.029 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:29.033 [DEBUG] Executing Step: * Say "hello" to "gauge"
+21:21:29.038 [INFO] hello, gauge
+21:21:29.038 [INFO] 
+21:21:29.039 [INFO] Executing scenario: Second scenario for the specification
+21:21:29.040 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:29.041 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+21:21:29.042 [INFO] hello again, gauge
+21:21:29.042 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+21:21:29.043 [INFO] Product
+21:21:29.043 [INFO] Description
+21:21:29.043 [INFO] [Gauge, Test automation with ease]
+21:21:29.043 [INFO] 
+21:21:29.043 [INFO] [Mingle, Agile project management]
+21:21:29.043 [INFO] 
+21:21:29.043 [INFO] [Snap, Hosted continuous integration]
+21:21:29.043 [INFO] 
+[Gocd, Continuous delivery platform]
+21:21:29.043 [INFO] 
+21:21:29.044 [INFO] Executing scenario: 计算求和值
+21:21:29.045 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:29.046 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:21:29.047 [INFO] 3
+21:21:29.049 [INFO] Executing scenario: 计算表中a列与b列之和
+21:21:29.049 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:29.050 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:21:29.051 [INFO] 3------------------
+21:21:29.051 [INFO] 
+4------------------
+21:21:29.051 [INFO] 7------------------
+21:21:29.051 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:21:29.052 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:21:29.053 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+21:21:29.053 [INFO] 3
+21:21:29.053 [INFO] 7
+21:21:29.156 [DEBUG] Plugin [Html Report] with pid [8722] has exited
+21:21:29.156 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+21:21:29.157 [INFO] Scenarios: 	5 executed, 5 passed, 0 failed
+21:21:29.157 [INFO] Total time taken: 32ms
+21:24:27.389 [CRITICAL] [ParseError] /Users/lqi/work/gauge/unittest/specs/hello_world.spec : line no: 51, Dynamic parameter <file:name.txt> could not be resolved
+21:24:50.675 [CRITICAL] [ParseError] /Users/lqi/work/gauge/unittest/specs/hello_world.spec : line no: 51, Dynamic parameter <file:name.txt> could not be resolved
+21:38:10.981 [INFO] src/test/java/StepImplementation.java:59: error: cannot find symbol
+21:38:10.981 [INFO]         List<List<String>> rows = file.getRows();
+                                      ^
+  symbol:   method getRows()
+  location: variable file of type File
+21:38:10.982 [INFO] 1 error
+21:38:10.987 [INFO] process /Users/lqi/.jenv/shims/javac with pid 9772 quit unexpectedly. exit status 1
+21:38:10.987 [DEBUG] Runner exited with error: exit status 1
+21:38:10.987 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+21:38:10.987 [DEBUG] Error while killing runner: os: process already finished
+21:38:10.988 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+21:38:35.942 [INFO] Executing specification: Specification Heading
+21:38:35.944 [DEBUG] Executing Spec: * A context step which gets executed before every scenario
+21:38:35.944 [INFO] Executing scenario: First scenario
+21:38:35.945 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:38:35.950 [DEBUG] Executing Step: * Say "hello" to "gauge"
+21:38:35.955 [INFO] hello, gauge
+21:38:35.955 [INFO] 
+21:38:35.956 [INFO] Executing scenario: Second scenario for the specification
+21:38:35.957 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:38:35.958 [DEBUG] Executing Step: * Say "hello again" to "gauge"
+21:38:35.959 [INFO] hello again, gauge
+21:38:35.959 [DEBUG] Executing Step: * Step that takes a table 
+     |Product|Description                  |
+     |-------|-----------------------------|
+     |Gauge  |Test automation with ease    |
+     |Mingle |Agile project management     |
+     |Snap   |Hosted continuous integration|
+     |Gocd   |Continuous delivery platform |
+21:38:35.960 [INFO] Product
+21:38:35.960 [INFO] Description
+21:38:35.960 [INFO] [Gauge, Test automation with ease]
+21:38:35.960 [INFO] 
+21:38:35.960 [INFO] [Mingle, Agile project management]
+21:38:35.960 [INFO] [Snap, Hosted continuous integration]
+21:38:35.960 [INFO] 
+21:38:35.960 [INFO] [Gocd, Continuous delivery platform]
+21:38:35.960 [INFO] 
+21:38:35.961 [INFO] Executing scenario: 计算求和值
+21:38:35.962 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:38:35.963 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:38:35.963 [INFO] 3
+21:38:35.965 [INFO] Executing scenario: 计算表中a列与b列之和
+21:38:35.966 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:38:35.967 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:38:35.967 [INFO] 3------------------
+21:38:35.967 [INFO] 4------------------
+7------------------
+21:38:35.967 [INFO] 
+21:38:35.968 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:38:35.968 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:38:35.969 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+21:38:35.970 [INFO] 3
+21:38:35.970 [INFO] 7
+21:38:35.970 [INFO] Executing scenario: 输出文本文件中的内容
+21:38:35.971 [DEBUG] Executing Step: * A context step which gets executed before every scenario
+21:38:35.972 [DEBUG] Executing Step: * 输出文本文件中的内容 <file:resources/name.txt>
+21:38:36.078 [DEBUG] Plugin [Html Report] with pid [9886] has exited
+21:38:36.078 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+21:38:36.078 [INFO] Scenarios: 	6 executed, 6 passed, 0 failed
+21:38:36.079 [INFO] Total time taken: 35ms
+22:05:52.167 [WARNING] Validation failed. The following steps have errors
+22:05:52.167 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:10: Step implementation not found. A context step which gets executed before every scenario
+22:05:52.167 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:31: Step implementation not found. 输出文本文件中的内容 <file:resources/name.txt>
+22:06:10.608 [WARNING] Validation failed. The following steps have errors
+22:06:10.608 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:10: Step implementation not found. A context step which gets executed before every scenario
+22:06:10.608 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:31: Step implementation not found. 输出文本文件中的内容 <file:resources/name.txt>
+22:06:41.704 [WARNING] Validation failed. The following steps have errors
+22:06:41.704 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:10: Step implementation not found. A context step which gets executed before every scenario
+22:06:41.704 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:30: Step implementation not found. 输出文本文件中的内容 <file:resources/name.txt>
+22:06:55.108 [WARNING] Validation failed. The following steps have errors
+22:06:55.108 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:10: Step implementation not found. A context step which gets executed before every scenario
+22:06:55.108 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:29: Step implementation not found. 输出文本文件中的内容 <file:resources/name.txt>
+22:07:43.360 [WARNING] Validation failed. The following steps have errors
+22:07:43.360 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:10: Step implementation not found. A context step which gets executed before every scenario
+22:07:43.360 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:30: Step implementation not found. 输出文本文件中的内容 <file:resources/name.txt>
+22:07:53.247 [WARNING] Validation failed. The following steps have errors
+22:07:53.247 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:28: Step implementation not found. 输出文本文件中的内容 <file:resources/name.txt>
+22:08:02.962 [WARNING] Validation failed. The following steps have errors
+22:08:02.962 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:28: Step implementation not found. 输出文本文件中的内容 <file:resources/name.txt>
+22:08:33.094 [INFO] Executing specification: Specification Heading
+22:08:33.095 [INFO] Executing scenario: 计算求和值
+22:08:33.096 [DEBUG] Executing Step: * 计算"1"加"2"的值
+22:08:33.104 [INFO] 3
+22:08:33.104 [INFO] 
+22:08:33.107 [INFO] Executing scenario: 计算表中a列与b列之和
+22:08:33.108 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+22:08:33.108 [INFO] 3------------------
+22:08:33.109 [INFO] 4------------------
+7------------------
+22:08:33.109 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+22:08:33.110 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+22:08:33.111 [INFO] 3
+22:08:33.111 [INFO] 7
+22:08:33.217 [DEBUG] Plugin [Html Report] with pid [11356] has exited
+22:08:33.217 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+22:08:33.217 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+22:08:33.217 [INFO] Total time taken: 22ms
+22:09:07.388 [INFO] Executing specification: Specification Heading
+22:09:07.389 [INFO] Executing scenario: 计算求和值
+22:09:07.389 [DEBUG] Executing Step: * 计算"1"加"2"的值
+22:09:07.399 [INFO] 3
+22:09:07.399 [INFO] 
+22:09:07.403 [INFO] Executing scenario: 计算表中a列与b列之和
+22:09:07.403 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+22:09:07.404 [INFO] 3------------------
+22:09:07.404 [INFO] 4------------------
+7------------------
+22:09:07.404 [INFO] 
+22:09:07.405 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+22:09:07.406 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+22:09:07.406 [INFO] 3
+22:09:07.406 [INFO] 7
+22:09:07.512 [DEBUG] Plugin [Html Report] with pid [11446] has exited
+22:09:07.512 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+22:09:07.512 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+22:09:07.512 [INFO] Total time taken: 24ms
+22:09:15.975 [INFO] Executing specification: Specification Heading
+22:09:15.976 [INFO] Executing scenario: 计算求和值
+22:09:15.976 [DEBUG] Executing Step: * 计算"1"加"2"的值
+22:09:15.986 [INFO] 3
+22:09:15.986 [INFO] 
+22:09:15.989 [INFO] Executing scenario: 计算表中a列与b列之和
+22:09:15.989 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+22:09:15.990 [INFO] 3------------------
+22:09:15.990 [INFO] 4------------------
+7------------------
+22:09:15.991 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+22:09:15.991 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+22:09:15.992 [INFO] 3
+22:09:15.992 [INFO] 7
+22:09:16.098 [DEBUG] Plugin [Html Report] with pid [11523] has exited
+22:09:16.099 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+22:09:16.099 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+22:09:16.099 [INFO] Total time taken: 23ms
+22:11:29.048 [INFO] src/test/java/StepImplementation.java:15: error: unclosed string literal
+22:11:29.048 [INFO]         System.out.println("开始执行测试”);
+                           ^
+22:11:29.050 [INFO] src/test/java/StepImplementation.java:15: error: ';' expected
+22:11:29.050 [INFO]         System.out.println("开始执行测试”);
+                                     ^
+22:11:29.050 [INFO] src/test/java/StepImplementation.java:20: error: ';' expected
+    public void summary(int a, int b) {
+22:11:29.050 [INFO]                        ^
+22:11:29.051 [INFO] src/test/java/StepImplementation.java:20: error: <identifier> expected
+    public void summary(int a, int b) {
+22:11:29.051 [INFO]                               ^
+22:11:29.051 [INFO] src/test/java/StepImplementation.java:20: error: not a statement
+    public void summary(int a, int b) {
+22:11:29.051 [INFO]                                    ^
+22:11:29.051 [INFO] src/test/java/StepImplementation.java:20: error: ';' expected
+22:11:29.051 [INFO]     public void summary(int a, int b) {
+22:11:29.051 [INFO]                                     ^
+22:11:29.051 [INFO] src/test/java/StepImplementation.java:26: error: ';' expected
+22:11:29.051 [INFO]     public void stepWithTable1(Table table) {
+                              ^
+22:11:29.052 [INFO] src/test/java/StepImplementation.java:26: error: ';' expected
+22:11:29.052 [INFO]     public void stepWithTable1(Table table) {
+                                          ^
+22:11:29.052 [INFO] src/test/java/StepImplementation.java:35: error: ';' expected
+22:11:29.052 [INFO]     public void sumCsvfile(Table table) {
+                          ^
+22:11:29.052 [INFO] src/test/java/StepImplementation.java:35: error: ';' expected
+22:11:29.052 [INFO]     public void sumCsvfile(Table table) {
+                                      ^
+22:11:29.053 [INFO] src/test/java/StepImplementation.java:44: error: reached end of file while parsing
+}
+22:11:29.053 [INFO]  ^
+22:11:29.055 [INFO] 11 errors
+22:11:29.058 [INFO] process /Users/lqi/.jenv/shims/javac with pid 11602 quit unexpectedly. exit status 1
+22:11:29.059 [DEBUG] Runner exited with error: exit status 1
+22:11:29.060 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+22:11:29.060 [DEBUG] Error while killing runner: os: process already finished
+22:11:29.060 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+22:11:44.138 [INFO] src/test/java/StepImplementation.java:15: error: unclosed string literal
+22:11:44.138 [INFO]         System.out.println("开始执行测试”);
+                           ^
+22:11:44.139 [INFO] src/test/java/StepImplementation.java:15: error: ';' expected
+        System.out.println("开始执行测试”);
+22:11:44.139 [INFO]                                      ^
+22:11:44.139 [INFO] src/test/java/StepImplementation.java:19: error: ';' expected
+    public void summary(int a, int b) {
+22:11:44.139 [INFO]                        ^
+22:11:44.140 [INFO] src/test/java/StepImplementation.java:19: error: <identifier> expected
+    public void summary(int a, int b) {
+22:11:44.140 [INFO]                               ^
+22:11:44.140 [INFO] src/test/java/StepImplementation.java:19: error: not a statement
+22:11:44.140 [INFO]     public void summary(int a, int b) {
+                                   ^
+22:11:44.140 [INFO] src/test/java/StepImplementation.java:19: error: ';' expected
+    public void summary(int a, int b) {
+22:11:44.140 [INFO]                                     ^
+22:11:44.141 [INFO] src/test/java/StepImplementation.java:25: error: ';' expected
+    public void stepWithTable1(Table table) {
+22:11:44.141 [INFO]                               ^
+22:11:44.141 [INFO] src/test/java/StepImplementation.java:25: error: ';' expected
+22:11:44.141 [INFO]     public void stepWithTable1(Table table) {
+                                          ^
+22:11:44.141 [INFO] src/test/java/StepImplementation.java:34: error: ';' expected
+22:11:44.141 [INFO]     public void sumCsvfile(Table table) {
+                          ^
+22:11:44.141 [INFO] src/test/java/StepImplementation.java:34: error: ';' expected
+22:11:44.141 [INFO]     public void sumCsvfile(Table table) {
+                                      ^
+22:11:44.142 [INFO] src/test/java/StepImplementation.java:43: error: reached end of file while parsing
+22:11:44.142 [INFO] }
+22:11:44.142 [INFO]  ^
+22:11:44.143 [INFO] 11 errors
+22:11:44.147 [INFO] process /Users/lqi/.jenv/shims/javac with pid 11651 quit unexpectedly. exit status 1
+22:11:44.147 [DEBUG] Runner exited with error: exit status 1
+22:11:44.147 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+22:11:44.147 [DEBUG] Error while killing runner: os: process already finished
+22:11:44.147 [CRITICAL] Failed to start gauge API: Runner exited with error: exit status 1
+22:12:03.501 [INFO] Executing specification: Specification Heading
+22:12:03.502 [INFO] Executing scenario: 计算求和值
+22:12:03.502 [DEBUG] Executing Step: * 计算"1"加"2"的值
+22:12:03.512 [INFO] 3
+22:12:03.512 [INFO] 
+22:12:03.516 [INFO] Executing scenario: 计算表中a列与b列之和
+22:12:03.516 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+22:12:03.517 [INFO] 3------------------
+22:12:03.517 [INFO] 4------------------
+7------------------
+22:12:03.518 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+22:12:03.519 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+22:12:03.519 [INFO] 3
+22:12:03.519 [INFO] 7
+22:12:03.623 [DEBUG] Plugin [Html Report] with pid [11761] has exited
+22:12:03.623 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+22:12:03.623 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+22:12:03.623 [INFO] Total time taken: 25ms
+22:12:27.330 [WARNING] Validation failed. The following steps have errors
+22:12:27.331 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:9: Step implementation not found. 在所有场景之前执行
+22:14:25.333 [WARNING] Validation failed. The following steps have errors
+22:14:25.333 [ERROR] /Users/lqi/work/gauge/unittest/specs/hello_world.spec:9: Step implementation not found. 在所有场景之前执行
+22:14:42.477 [INFO] Executing specification: Specification Heading
+22:14:42.478 [DEBUG] Executing Spec: * 在所有场景之前执行
+22:14:42.478 [INFO] Executing scenario: 计算求和值
+22:14:42.478 [DEBUG] Executing Step: * 在所有场景之前执行
+22:14:42.482 [INFO] 开始执行测试
+22:14:42.482 [INFO] 
+22:14:42.483 [DEBUG] Executing Step: * 计算"1"加"2"的值
+22:14:42.488 [INFO] 3
+22:14:42.488 [INFO] 
+22:14:42.490 [INFO] Executing scenario: 计算表中a列与b列之和
+22:14:42.491 [DEBUG] Executing Step: * 在所有场景之前执行
+22:14:42.491 [INFO] 开始执行测试
+22:14:42.492 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+22:14:42.493 [INFO] 3------------------
+22:14:42.493 [INFO] 4------------------
+7------------------
+22:14:42.494 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+22:14:42.495 [DEBUG] Executing Step: * 在所有场景之前执行
+22:14:42.495 [INFO] 开始执行测试
+22:14:42.495 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+22:14:42.496 [INFO] 3
+22:14:42.496 [INFO] 7
+22:14:42.603 [DEBUG] Plugin [Html Report] with pid [12055] has exited
+22:14:42.603 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+22:14:42.603 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+22:14:42.603 [INFO] Total time taken: 25ms
+11:18:23.362 [INFO] Error: Could not find or load main class com.thoughtworks.gauge.GaugeRuntime
+11:18:23.363 [INFO] 
+11:18:23.365 [INFO] process /usr/bin/java with pid 17939 quit unexpectedly. exit status 1
+11:18:23.365 [DEBUG] Runner exited with error: exit status 1
+11:18:23.365 [DEBUG] Runner connection error: Runner exited with error: exit status 1
+11:18:23.365 [DEBUG] Error while killing runner: os: process already finished
+22:11:56.096 [INFO] Executing specification: Specification Heading
+22:11:56.097 [DEBUG] Executing Spec: * 在所有场景之前执行
+22:11:56.097 [INFO] Executing scenario: 计算求和值
+22:11:56.097 [DEBUG] Executing Step: * 在所有场景之前执行
+22:11:56.101 [INFO] 开始执行测试
+22:11:56.101 [INFO] 
+22:11:56.102 [DEBUG] Executing Step: * 计算"1"加"2"的值
+22:11:56.107 [INFO] 3
+22:11:56.109 [INFO] Executing scenario: 计算表中a列与b列之和
+22:11:56.110 [DEBUG] Executing Step: * 在所有场景之前执行
+22:11:56.111 [INFO] 开始执行测试
+22:11:56.111 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+22:11:56.112 [INFO] 3------------------
+22:11:56.112 [INFO] 4------------------
+7------------------
+22:11:56.112 [INFO] 
+22:11:56.113 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+22:11:56.114 [DEBUG] Executing Step: * 在所有场景之前执行
+22:11:56.114 [INFO] 开始执行测试
+22:11:56.115 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+22:11:56.115 [INFO] 3
+22:11:56.115 [INFO] 7
+22:11:56.218 [DEBUG] Plugin [Html Report] with pid [25224] has exited
+22:11:56.218 [INFO] Specifications: 	1 executed, 1 passed, 0 failed, 0 skipped
+22:11:56.218 [INFO] Scenarios: 	3 executed, 3 passed, 0 failed
+22:11:56.218 [INFO] Total time taken: 25ms
+22:14:00.936 [INFO] Executing specification: Specification Heading
+22:14:00.937 [DEBUG] Executing Spec: * 在所有场景之前执行
+22:14:00.937 [INFO] Executing scenario: 计算求和值
+22:14:00.937 [DEBUG] Executing Step: * 在所有场景之前执行
+22:14:00.941 [INFO] 开始执行测试
+22:14:00.942 [INFO] 
+22:14:00.942 [DEBUG] Executing Step: * 计算"1"加"2"的值
+22:14:00.947 [INFO] 3
+22:14:01.590 [ERROR] Failed step: 计算"1"加"2"的值
+22:14:01.590 [ERROR] Error Message: java.lang.AssertionError: a+b expected:<3> but was:<4>
+22:14:01.590 [ERROR] Stacktrace: org.junit.Assert.fail(Assert.java:88)
+	org.junit.Assert.failNotEquals(Assert.java:834)
+	org.junit.Assert.assertEquals(Assert.java:645)
+	StepImplementation.summary(StepImplementation.java:41)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:606)
+	com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:82)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:65)
+	com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+	com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+	com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:40)
+	com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+	com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:37)
+	com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+	com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+	
+22:14:01.591 [INFO] Executing scenario: 计算表中a列与b列之和
+22:14:01.592 [DEBUG] Executing Step: * 在所有场景之前执行
+22:14:01.592 [INFO] 开始执行测试
+22:14:01.593 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+22:14:01.594 [INFO] 3------------------
+22:14:01.594 [INFO] 
+4------------------
+7------------------
+22:14:01.595 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+22:14:01.595 [DEBUG] Executing Step: * 在所有场景之前执行
+22:14:01.596 [INFO] 开始执行测试
+22:14:01.596 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+22:14:01.597 [INFO] 3
+22:14:01.597 [INFO] 7
+22:14:01.703 [DEBUG] Plugin [Html Report] with pid [25364] has exited
+22:14:03.155 [INFO] Specifications: 	1 executed, 0 passed, 1 failed, 0 skipped
+22:14:03.155 [INFO] Scenarios: 	3 executed, 2 passed, 1 failed
+22:14:03.155 [INFO] Total time taken: 668ms
+15:10:10.242 [INFO] Executing specification: 计算器
+15:10:10.243 [DEBUG] Executing Spec: * 在所有场景之前执行
+15:10:10.243 [INFO] Executing scenario: 计算求和值
+15:10:10.244 [DEBUG] Executing Step: * 在所有场景之前执行
+15:10:10.248 [INFO] 开始执行测试
+15:10:10.248 [INFO] 
+15:10:10.249 [DEBUG] Executing Step: * 计算"1"加"2"的值
+15:10:10.253 [INFO] 3
+15:10:10.959 [ERROR] Failed step: 计算"1"加"2"的值
+15:10:10.959 [ERROR] Error Message: java.lang.AssertionError: a+b expected:<3> but was:<4>
+15:10:10.959 [ERROR] Stacktrace: org.junit.Assert.fail(Assert.java:88)
+	org.junit.Assert.failNotEquals(Assert.java:834)
+	org.junit.Assert.assertEquals(Assert.java:645)
+	StepImplementation.summary(StepImplementation.java:41)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:606)
+	com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:82)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:65)
+	com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+	com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+	com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:40)
+	com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+	com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:37)
+	com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+	com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+	
+15:10:10.961 [INFO] Executing scenario: 计算表中a列与b列之和
+15:10:10.961 [DEBUG] Executing Step: * 在所有场景之前执行
+15:10:10.962 [INFO] 开始执行测试
+15:10:10.962 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+15:10:10.963 [INFO] 3------------------
+15:10:10.963 [INFO] 
+4------------------
+15:10:10.963 [INFO] 7------------------
+15:10:10.963 [INFO] 
+15:10:10.964 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+15:10:10.964 [DEBUG] Executing Step: * 在所有场景之前执行
+15:10:10.965 [INFO] 开始执行测试
+15:10:10.965 [INFO] 
+15:10:10.965 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+15:10:10.966 [INFO] 3
+15:10:10.966 [INFO] 
+7
+15:10:10.966 [INFO] 
+15:10:11.071 [DEBUG] Plugin [Html Report] with pid [41223] has exited
+15:10:12.416 [INFO] Specifications: 	1 executed, 0 passed, 1 failed, 0 skipped
+15:10:12.416 [INFO] Scenarios: 	3 executed, 2 passed, 1 failed
+15:10:12.416 [INFO] Total time taken: 729ms
+21:48:01.949 [INFO] Executing specification: 计算器
+21:48:01.950 [DEBUG] Executing Spec: * 在所有场景之前执行
+21:48:01.950 [INFO] Executing scenario: 计算求和值
+21:48:01.951 [DEBUG] Executing Step: * 在所有场景之前执行
+21:48:01.955 [INFO] 开始执行测试
+21:48:01.956 [INFO] 
+21:48:01.956 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:48:01.961 [INFO] 3
+21:48:02.699 [ERROR] Failed step: 计算"1"加"2"的值
+21:48:02.699 [ERROR] Error Message: java.lang.AssertionError: a+b expected:<3> but was:<4>
+21:48:02.699 [ERROR] Stacktrace: org.junit.Assert.fail(Assert.java:88)
+	org.junit.Assert.failNotEquals(Assert.java:834)
+	org.junit.Assert.assertEquals(Assert.java:645)
+	StepImplementation.summary(StepImplementation.java:41)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:606)
+	com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:82)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:65)
+	com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+	com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+	com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:40)
+	com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+	com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:37)
+	com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+	com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+	
+21:48:02.701 [INFO] Executing scenario: 计算表中a列与b列之和
+21:48:02.701 [DEBUG] Executing Step: * 在所有场景之前执行
+21:48:02.702 [INFO] 开始执行测试
+21:48:02.703 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:48:02.704 [INFO] 3------------------
+21:48:02.704 [INFO] 
+4------------------
+21:48:02.704 [INFO] 7------------------
+21:48:02.704 [INFO] 
+21:48:02.704 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:48:02.705 [DEBUG] Executing Step: * 在所有场景之前执行
+21:48:02.705 [INFO] 开始执行测试
+21:48:02.705 [INFO] 
+21:48:02.706 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+21:48:02.706 [INFO] 3
+21:48:02.706 [INFO] 7
+21:48:02.813 [DEBUG] Plugin [Html Report] with pid [99607] has exited
+21:48:04.161 [INFO] Specifications: 	1 executed, 0 passed, 1 failed, 0 skipped
+21:48:04.161 [INFO] Scenarios: 	3 executed, 2 passed, 1 failed
+21:48:04.161 [INFO] Total time taken: 764ms
+21:53:13.631 [INFO] Executing specification: 计算器
+21:53:13.632 [DEBUG] Executing Spec: * 在所有场景之前执行
+21:53:13.632 [INFO] Executing scenario: 计算求和值
+21:53:13.633 [DEBUG] Executing Step: * 在所有场景之前执行
+21:53:13.638 [INFO] 开始执行测试
+21:53:13.638 [INFO] 
+21:53:13.639 [DEBUG] Executing Step: * 计算"1"加"2"的值
+21:53:13.647 [INFO] 3
+21:53:13.647 [INFO] 
+21:53:14.394 [ERROR] Failed step: 计算"1"加"2"的值
+21:53:14.394 [ERROR] Error Message: java.lang.AssertionError: a+b expected:<3> but was:<4>
+21:53:14.394 [ERROR] Stacktrace: org.junit.Assert.fail(Assert.java:88)
+	org.junit.Assert.failNotEquals(Assert.java:834)
+	org.junit.Assert.assertEquals(Assert.java:645)
+	StepImplementation.summary(StepImplementation.java:41)
+	sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	java.lang.reflect.Method.invoke(Method.java:606)
+	com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:31)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:82)
+	com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:65)
+	com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:58)
+	com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+	com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:40)
+	com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+	com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:37)
+	com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+	com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+	
+21:53:14.396 [INFO] Executing scenario: 计算表中a列与b列之和
+21:53:14.396 [DEBUG] Executing Step: * 在所有场景之前执行
+21:53:14.397 [INFO] 开始执行测试
+21:53:14.398 [DEBUG] Executing Step: * 计算下列数据表中a加b的值 
+     |a|b|
+     |-|-|
+     |1|2|
+     |1|3|
+     |3|4|
+21:53:14.399 [INFO] 3------------------
+21:53:14.399 [INFO] 4------------------
+7------------------
+21:53:14.400 [INFO] Executing scenario: 计算csv文件中a列和b列的值
+21:53:14.400 [DEBUG] Executing Step: * 在所有场景之前执行
+21:53:14.401 [INFO] 开始执行测试
+21:53:14.401 [DEBUG] Executing Step: * 计算csv文件中a列和b列的值 <table:resources/sum.csv>
+21:53:14.402 [INFO] 3
+21:53:14.402 [INFO] 7
+21:53:14.507 [DEBUG] Plugin [Html Report] with pid [99845] has exited
+21:53:16.589 [INFO] Specifications: 	1 executed, 0 passed, 1 failed, 0 skipped
+21:53:16.589 [INFO] Scenarios: 	3 executed, 2 passed, 1 failed
+21:53:16.589 [INFO] Total time taken: 778ms
